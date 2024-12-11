@@ -1,0 +1,32 @@
+Requisite Location Report
+Summary report:
+DILLIVE objects:
+    Objects with requisites in library DILLIVE: 7
+    Objects with requisites in library DILLIVE: 7
+    Objects with requisites in library DILSRC: 13
+
+Detail report:
+DILLIVE objects:
+    Objects with requisites in library DILLIVE:
+        *FILE LF        DILLIVE/CUSMSTL1                    
+        *FILE LF        DILLIVE/CUSMSTL2                    
+        *FILE LF        DILLIVE/CUSMSTL3                    
+        *FILE DSPF      DILLIVE/MNTMENU                     
+        *FILE DSPF      DILLIVE/SCHNAMD                     
+        *FILE DSPF      DILLIVE/SCHZIPD                     
+        *PGM RPGLE      DILLIVE/CUSTMAINT                   
+    Objects with requisites in library DILSRC:
+        *CMD            DILLIVE/CUSTMAINT                   
+        *FILE PF        DILLIVE/CUSMST                      
+        *FILE LF        DILLIVE/CUSMSTL1                    
+        *FILE LF        DILLIVE/CUSMSTL2                    
+        *FILE LF        DILLIVE/CUSMSTL3                    
+        *FILE DSPF      DILLIVE/MAINMENU                    
+        *FILE DSPF      DILLIVE/MNTMENU                     
+        *FILE DSPF      DILLIVE/SCHNAMD                     
+        *FILE DSPF      DILLIVE/SCHZIPD                     
+        *MODULE RPGLE   DILLIVE/CUSMAIN                     
+        *MODULE RPGLE   DILLIVE/CUSMNT                      
+        *MODULE RPGLE   DILLIVE/SCHNAM                      
+        *MODULE RPGLE   DILLIVE/SCHZIP                      
+End of Requisite Location Report.

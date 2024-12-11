@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+DILLIVE objects:
+    Objects with source in library DILSRC: 14
+
+Detail report:
+DILLIVE objects:
+    Objects with source in library DILSRC:
+        *MODULE RPGLE   DILLIVE/CUSMAIN                     
+        *FILE DSPF      DILLIVE/MAINMENU                    
+        *MODULE RPGLE   DILLIVE/CUSMNT                      
+        *FILE LF        DILLIVE/CUSMSTL1                    
+        *FILE PF        DILLIVE/CUSMST                      
+        *FILE DSPF      DILLIVE/MNTMENU                     
+        *MODULE RPGLE   DILLIVE/SCHNAM                      
+        *FILE LF        DILLIVE/CUSMSTL3                    
+        *FILE DSPF      DILLIVE/SCHNAMD                     
+        *MODULE RPGLE   DILLIVE/SCHZIP                      
+        *FILE LF        DILLIVE/CUSMSTL2                    
+        *FILE DSPF      DILLIVE/SCHZIPD                     
+        *PGM RPGLE      DILLIVE/SCHNAMRPG                   
+        *CMD            DILLIVE/CUSTMAINT                   
+End of Source Location Report.
